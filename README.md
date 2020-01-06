@@ -42,6 +42,7 @@ python ../quine.py
 deactivate
 cd ..
 rm -rf venv
+```
 
 ## The quine_reply bot
 
